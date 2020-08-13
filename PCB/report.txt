@@ -1,0 +1,50 @@
+Información: Comprobando la huella del símbolo de la red "J2:/5ECA18A1:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "XA1:/5EF97E14:Poncho_Esqueleto:Conn_Poncho_Completo".
+
+Información: Comprobando la huella del símbolo de la red "U3:/5EB70863:Componentes:reg_TXB0108DQSR".
+
+Información: Comprobando la huella del símbolo de la red "U2:/5F29DB77:Package_DIP:DIP-18_W7.62mm_Socket_LongPads".
+
+Información: Comprobando la huella del símbolo de la red "U1:/5F012EF4:Package_TO_SOT_THT:TO-220-3_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "R1:/5EE3C477:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal".
+
+Información: Comprobando la huella del símbolo de la red "J9:/5F21F0C8:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "J8:/5EDE6624:Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "J7:/5EED3CA1:Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "J6:/5EEFEE68:Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "J5:/5EEF666A:Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "J4:/5EEE8D03:Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "J3:/5EC9E17F:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "J1:/5ECA2AC0:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical".
+
+Información: Comprobando la huella del símbolo de la red "C7:/5F211546:Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal".
+
+Información: Comprobando la huella del símbolo de la red "C5:/5EB41E92:Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm".
+
+Información: Comprobando la huella del símbolo de la red "C4:/5EB43744:Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm".
+
+Información: Comprobando la huella del símbolo de la red "C3:/5EE0913D:Capacitor_THT:CP_Radial_D4.0mm_P2.00mm".
+
+Información: Comprobando la huella del símbolo de la red "C2:/5EEC8314:Capacitor_THT:CP_Radial_D4.0mm_P2.00mm".
+
+Información: Comprobando la huella del símbolo de la red "C1:/5EE0BD03:Capacitor_THT:CP_Radial_D4.0mm_P2.00mm".
+
+Información: Comprobando la huella del símbolo de la red "A3:/5EC6CE42:Module:Pololu_Breakout-16_15.2x20.3mm".
+
+Información: Comprobando la huella del símbolo de la red "A2:/5EC4C5B6:Module:Pololu_Breakout-16_15.2x20.3mm".
+
+Información: Comprobando la huella del símbolo de la red "A1:/5EE5D2B9:Module:Pololu_Breakout-16_15.2x20.3mm".
+
+Aviso: Ha cambiado la huella del símbolo "XA1": huella en placa "footprint:Conn_Poncho_Completo", huella en listado de redes "Poncho_Esqueleto:Conn_Poncho_Completo"
+
+Aviso: Ha cambiado la huella del símbolo "U3": huella en placa "modelos:CJMCU TXB0108 Arduino", huella en listado de redes "Componentes:reg_TXB0108DQSR"
+

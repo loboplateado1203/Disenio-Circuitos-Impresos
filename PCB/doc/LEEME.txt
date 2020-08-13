@@ -1,0 +1,19 @@
+TITULO PONCHO: Poncho Drivers
+=============
+
+<<Colocar información mínima y propósito del Poncho.>>
+
+Diseñar una placa para implementar la utilización de tres drivers para el manejo de motores
+paso a paso y un teclado para comunicarse con la dobladora de alambre ingresar por
+teclado los grados y la dirección en que debe girar el motor para realizar el diseño
+esperado.
+
+URL: https://github.com/cese-dci/tpfinal-loboplateado1203
+
+FUNCIÓN: El Poncho sirve para el manejo de motores PAP.
+
+AUTORES/INSTITUCIONES: Zacharewicz L.B.
+
+
+<<Detalle y explicación de directorios o archivos adicionales que se incorporen.>>
+Se encuentra en el PDF adjunto: Diseño de Poncho Driver 

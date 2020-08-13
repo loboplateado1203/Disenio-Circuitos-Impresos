@@ -1,0 +1,15 @@
+Historial de cambios realizados 
+================================
+
+* Fecha: 19 de junio 2020
+* Autores: Zacharewicz L.B.
+* Archivos: 
+* Descripción: Se parte de los Modelos de Ponchos en: 
+               http://www.proyecto-ciaa.com.ar/devwiki/doku.php?id=desarrollo:edu-ciaa:ponchos_modelos
+               <<Colocar aquí información de cambios importantes y de gran volumen, releases, contribuciones de terceros, etc.>>
+
+		Porbar colocar el blouqe PIC arriba y el bloque adaptador de nivel abajo. Eso permite conectar prolijo REG20,19,18 y 17. Probar conectar también REG12 y gpio1-a4 y gpio3-a2. Si se hace prolijo queda mejor documentado el circuito. 
+
+               "https://github.com/cese-dci/tp-dci--lmarianocampos/blob/master/Driver%20Motor%20PaP_V1.0/shapes3D/8825_sin_disip.wrl"
+
+

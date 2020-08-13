@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name Poncho_Esqueleto)(type KiCad)(uri /home/loboplateado/Escritorio/tpfinal_Zacharewicz/CIAA_footprints/Poncho_Esqueleto.pretty)(options "")(descr ""))
+  (lib (name CIAA_footprints)(type KiCad)(uri /home/loboplateado/Escritorio/tpfinal_Zacharewicz/CIAA_footprints)(options "")(descr ""))
+  (lib (name Poncho_Modelos)(type KiCad)(uri /home/loboplateado/Escritorio/tpfinal_Zacharewicz/CIAA_footprints/Poncho_Modelos.pretty)(options "")(descr ""))
+  (lib (name libPonchos)(type KiCad)(uri /home/loboplateado/Escritorio/tpfinal_Zacharewicz/CIAA_footprints/libPonchos.pretty)(options "")(descr ""))
+  (lib (name libModelos)(type KiCad)(uri /home/loboplateado/Escritorio/tpfinal_Zacharewicz/CIAA_footprints/libModelos.pretty)(options "")(descr ""))
+  (lib (name Componentes)(type KiCad)(uri /home/loboplateado/Escritorio/tpfinal_Zacharewicz/Componentes.pretty)(options "")(descr ""))
+  (lib (name "Reg TXB0108DQSR")(type KiCad)(uri "${KIPRJMOD}/Reg TXB0108DQSR.pretty")(options "")(descr ""))
+)
